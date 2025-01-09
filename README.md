@@ -159,5 +159,5 @@ Received Message: Hello, Kafka!
 
 ## Conclusion
 
-This project provides a robust example of integrating Spring Boot with Kafka, packaged and deployed using Docker. It demonstrates both producer and consumer capabilities and can be extended for more complex use cases.
+This project provides a robust example of integrating Spring Boot with Kafka, packaged and deployed using Docker. It demonstrates both producer and consumer capabilities and can be extended for more complex use cases...
 
